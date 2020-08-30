@@ -2,9 +2,9 @@
 
 **To Do List** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
-Submitted by: **Shannon**
+Submitted by: **Shannon Li**
 
-Time spent: **2.5** hours spent in total
+Time spent: **3.5** hours spent in total
 
 ## User Stories
 
@@ -31,7 +31,7 @@ Here's a walkthrough of implemented user stories:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+In the beginning, it was really difficult because I was not familar with Java so, I decided to do learn some Java on Codecademy. While building the application, I occasionally encounter errors and bugs. To solve those problem, I searched it up and learn to read the errors on Android Studio to resolve the errors. 
 
 ## License
 
