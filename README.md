@@ -27,6 +27,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='walkthrough.mov' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='walkthrough.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ## Notes
